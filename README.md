@@ -1,10 +1,74 @@
-# iPhoneApps
-Git Pages for the various iPhone apps I created.
+Aaron Reinke - Freelance Data Analyst
 
-## Nameless App
-The nameless-app aims to provide helpful reminders and recommendations to the user of the application. It is not intended to act as a replacement for a voice assistant (iPhone's Siri or Amazon's Alexa). The recommendations will come from the data collected by the user, which is stored in Core Data.
+Email: aaronpreinke@gmail.com | Phone: (515) 402-0994 | LinkedIn: [www.linkedin.com/in/aaron-reinke](https://www.linkedin.com/in/aaron-reinke-84196917b/)
 
-The first iteration of the application will provide a recommendation based on commuting times. The recommendations will include: reminders of when to leave for work or events, and recommendations based on weather and mapping API's in the event of possible travel delays.
+# Introduction
 
-## Memorize App
-The memorize app was created by following along with the Standford University CS193 Spring 2021 course. The lectures are available online at https://cs193p.sites.stanford.edu/. 
+I'm Aaron Reinke, a freelance data analyst with over 4 years of experience helping businesses make data-driven decisions. I specialize in predictive modeling, data visualization, and reporting. My industry experience includes healthcare, public health, and research.
+
+# Skills and Tools
+
+Data Analysis: R, SQL
+Data Visualization: ggplot2, Tableau
+Machine Learning: Scikit-learn, TensorFlow
+Programming: SwiftUI
+Reporting: Microsoft Excel, Google Sheets
+
+# Project Samples
+
+## Sales Forecasting for a Retail Company
+
+Developed a time-series forecasting model using ARIMA to predict monthly sales
+Tools: R, ggplot2
+Visualizations: Time series plot, ACF/PACF plots, forecast vs. actual sales
+
+## Customer Segmentation for an E-commerce Website
+
+Conducted k-means clustering analysis to segment customers based on their purchase behavior
+Tools: Python, scikit-learn, Tableau
+Visualizations: Elbow plot, Silhouette plot, cluster profiles in Tableau
+
+## Predicting Churn for a Telecommunications Company
+
+Built a logistic regression model to predict customer churn based on usage data
+Tools: R, ggplot2, Tableau
+Visualizations: Correlation heatmap, ROC curve, feature importance
+
+## Interactive Dashboard for a Healthcare Provider
+
+Created an interactive dashboard to monitor patient satisfaction metrics
+Tools: Power BI
+Visualizations: Geographic map, bar charts, line charts, filters for user interaction
+
+
+# Case Study: Sales Forecasting for a Retail Company
+
+Problem: The client, a large retail company, needed accurate sales forecasts to manage inventory and allocate resources.
+
+Approach:
+
+- Cleaned and preprocessed historical sales data
+- Conducted exploratory data analysis to identify trends and seasonality
+- Developed an ARIMA model for time-series forecasting
+- Validated model performance using out-of-sample data
+
+Results:
+
+- Achieved a 90% accuracy in predicting monthly sales
+- Enabled the client to optimize inventory management and reduce stockouts
+- Received positive feedback from the client for responsiveness and communication
+
+# Testimonials and References
+
+"John's data analysis skills helped our company improve sales forecasting accuracy, leading to better inventory management." - Jane Smith, Retail Company CEO
+
+"John's data visualization expertise made it easy for our team to understand complex data insights and make informed decisions." - Michael Brown, Healthcare Provider COO
+
+References available upon request.
+
+# Certifications and Education
+
+Master of Public Health, University of Iowa
+Bachelor of Science in Biology, Iowa State University
+//Data Science Specialization, Coursera
+//Tableau Desktop Specialist, Tableau
