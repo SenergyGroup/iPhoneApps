@@ -9,9 +9,13 @@ I'm Aaron Reinke, a freelance data analyst with over 4 years of experience helpi
 # Skills and Tools
 
 Data Analysis: R, SQL
+
 Data Visualization: ggplot2, Tableau
+
 Machine Learning: Scikit-learn, TensorFlow
+
 Programming: SwiftUI
+
 Reporting: Microsoft Excel, Google Sheets
 
 # Project Samples
@@ -19,25 +23,33 @@ Reporting: Microsoft Excel, Google Sheets
 ## Sales Forecasting for a Retail Company
 
 Developed a time-series forecasting model using ARIMA to predict monthly sales
+
 Tools: R, ggplot2
+
 Visualizations: Time series plot, ACF/PACF plots, forecast vs. actual sales
 
 ## Customer Segmentation for an E-commerce Website
 
 Conducted k-means clustering analysis to segment customers based on their purchase behavior
+
 Tools: Python, scikit-learn, Tableau
+
 Visualizations: Elbow plot, Silhouette plot, cluster profiles in Tableau
 
 ## Predicting Churn for a Telecommunications Company
 
 Built a logistic regression model to predict customer churn based on usage data
+
 Tools: R, ggplot2, Tableau
+
 Visualizations: Correlation heatmap, ROC curve, feature importance
 
 ## Interactive Dashboard for a Healthcare Provider
 
 Created an interactive dashboard to monitor patient satisfaction metrics
+
 Tools: Power BI
+
 Visualizations: Geographic map, bar charts, line charts, filters for user interaction
 
 
@@ -69,6 +81,9 @@ References available upon request.
 # Certifications and Education
 
 Master of Public Health, University of Iowa
+
 Bachelor of Science in Biology, Iowa State University
+
 //Data Science Specialization, Coursera
+
 //Tableau Desktop Specialist, Tableau
